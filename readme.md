@@ -1,1 +1,1 @@
-## Processing Repo for Module Digital Creation and Computational Thinking
+## Processing Repo for Digital Creation and Computational Thinking Module 
